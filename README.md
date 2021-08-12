@@ -33,6 +33,13 @@
 
 ![SS1](/screenshots/Screenshot_1.jpg "ss1") | ![SS1](/screenshots/Screenshot_2.jpg "ss2")
 
+<table>
+  <tr>
+    <td><img src="screenshots/Screenshot_1.jpg" width=270 height=480></td>
+    <td><img src="screenshots/Screenshot_2.jpg" width=270 height=480></td>
+  </tr>
+ </table>
+
 Responsive Side Navigation Bar in HTML CSS And JavaScript | Dashboard Sidebar Menu:
 **Created a Responsive Side Navigation Bar in HTML CSS, and JavaScript.**
 
