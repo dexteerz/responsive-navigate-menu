@@ -37,7 +37,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![SS1][screenshots-Screenshot_1]](https://raw.githubusercontent.com/dexteerz/responsive-navigate-menu/main/screenshots/Screenshot_1.jpg)
+[![SS1](/screenshots/Screenshot_1 "ss1")](https://raw.githubusercontent.com/dexteerz/responsive-navigate-menu/main/screenshots/Screenshot_1.jpg)
 [![SS2][screenshots-Screenshot_2]](https://raw.githubusercontent.com/dexteerz/responsive-navigate-menu/main/screenshots/Screenshot_2.jpg)
 
 Responsive Side Navigation Bar in HTML CSS And JavaScript | Dashboard Sidebar Menu:
