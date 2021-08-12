@@ -1,9 +1,9 @@
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
+[![Contributors](contributors-shield)][contributors-url]
+[![Forks](forks-shield)][forks-url]
+[![Stargazers](stars-shield)][stars-url]
+[![Issues](issues-shield)][issues-url]
+[![MIT License](license-shield)][license-url]
+[![LinkedIn](linkedin-shield)][linkedin-url]
 
 
 
@@ -38,7 +38,7 @@
 ## About The Project
 
 [![SS1](/screenshots/Screenshot_1.jpg "ss1")](https://raw.githubusercontent.com/dexteerz/responsive-navigate-menu/main/screenshots/Screenshot_1.jpg)
-[![SS2][/screenshots/Screenshot_2.jpg]](https://raw.githubusercontent.com/dexteerz/responsive-navigate-menu/main/screenshots/Screenshot_2.jpg)
+[![SS1](/screenshots/Screenshot_2.jpg "ss2")](https://raw.githubusercontent.com/dexteerz/responsive-navigate-menu/main/screenshots/Screenshot_2.jpg)
 
 Responsive Side Navigation Bar in HTML CSS And JavaScript | Dashboard Sidebar Menu:
 **Created a Responsive Side Navigation Bar in HTML CSS, and JavaScript.**
