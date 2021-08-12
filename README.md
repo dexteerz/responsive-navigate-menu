@@ -32,7 +32,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![SS1](/screenshots/Screenshot_1.jpg "ss1")](https://raw.githubusercontent.com/dexteerz/responsive-navigate-menu/main/screenshots/Screenshot_1.jpg) [![SS1](/screenshots/Screenshot_2.jpg "ss2")](https://raw.githubusercontent.com/dexteerz/responsive-navigate-menu/main/screenshots/Screenshot_2.jpg)
+![SS1](/screenshots/Screenshot_1.jpg "ss1") ![SS1](/screenshots/Screenshot_2.jpg "ss2")
 
 Responsive Side Navigation Bar in HTML CSS And JavaScript | Dashboard Sidebar Menu:
 **Created a Responsive Side Navigation Bar in HTML CSS, and JavaScript.**
@@ -61,7 +61,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Breno Teixeira- [@twitter_handle](https://twitter.com/dexteerz) - email
+Breno Teixeira- [@linkedin](https://www.linkedin.com/in/bre-teixeira/) - inf.teixeira@gmail.com
 
 Project Link: [https://github.com/dexteerz/responsive-navigate-menu](https://github.com/dexteerz/responsive-navigate-menu)
 
