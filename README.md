@@ -37,8 +37,8 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://github.com/dexteerz/responsive-navigate-menu/blob/main/screenshots/Screenshot_1.jpg)
-[![Product Name Screen Shot][product-screenshot]](https://github.com/dexteerz/responsive-navigate-menu/blob/main/screenshots/Screenshot_2.jpg)
+[![Product Name Screen Shot][product-screenshot]](https://raw.githubusercontent.com/dexteerz/responsive-navigate-menu/main/screenshots/Screenshot_1.jpg)
+[![Product Name Screen Shot][product-screenshot]](https://raw.githubusercontent.com/dexteerz/responsive-navigate-menu/main/screenshots/Screenshot_2.jpg)
 
 Responsive Side Navigation Bar in HTML CSS And JavaScript | Dashboard Sidebar Menu:
 **Created a Responsive Side Navigation Bar in HTML CSS, and JavaScript.**
